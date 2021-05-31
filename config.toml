@@ -43,8 +43,7 @@ preserveTaxonomyNames = true
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = "https://anmol.netlify.app"
-    year = "2021"
-    prefix = "Built using [hugo.386](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = "Hugo theme: [hugo.386](https://gitlab.com/maxlefou/hugo.386)"
 
 [menu]
   # This displays buttons in the navbar to access your contents

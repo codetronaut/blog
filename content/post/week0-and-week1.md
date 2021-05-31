@@ -14,7 +14,7 @@ categories = [
 
 **Mentee Name: Anmol**
 
-This and coming articles will explain and follow my progress for the Google Summer of Code 2021 project `VirtIO-blk implementation with AGL on Jailhouse`.
+This and coming articles will explain and follow my progress for the Google Summer of Code 2021 project [`VirtIO-blk implementation with AGL on Jailhouse`](https://summerofcode.withgoogle.com/projects/#6432060576628736).
 
 **Mentors: Jan-Simon Möller and Marco Solieri**
 
