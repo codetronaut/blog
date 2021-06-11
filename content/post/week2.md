@@ -151,7 +151,7 @@ build
 
 10 directories, 12 files
 ```
-Note: If you don't want to preface the docker command with sudo(it’s needed when you run the `build-images.sh` script) , create a Unix group called docker and add your USER to it. When the Docker daemon starts, it creates a Unix socket accessible by members of the docker group. The docker group grants privileges equivalent to the root user. [Ref.]
+Note: If you don't want to preface the docker command with sudo(it’s needed when you run the `build-images.sh` script) , create a Unix group called docker and add your USER to it. When the Docker daemon starts, it creates a Unix socket accessible by members of the docker group. The docker group grants privileges equivalent to the root user. [Ref.](https://docs.docker.com/engine/install/linux-postinstall/#:~:text=Manage%20Docker%20as%20a%20non%2Droot%20user&text=If%20you%20don't%20want,members%20of%20the%20docker%20group.&text=The%20docker%20group%20grants%20privileges%20equivalent%20to%20the%20root%20user.)
 
 After this I tried to emulate the `jailhouse-image`, using the script `start-qemu.sh` (already present in the jailhouse-images repo.), but it didn’t boot. 
 
