@@ -1,16 +1,11 @@
-+++
-title = "GSoC (Week 3)"
-date = "2021-06-11"
-author = "Anmol"
-description = "Weekly Project Report (Coding Period)"
-tags = [
-	"gsoc",
-	"agl",
-]
-categories = [
-	"gsoc",
-]
-+++
+---
+title: "GSoC (Week 3)"
+date: "2021-06-11"
+author: "Anmol"
+tags: 
+  - gsoc
+  - agl
+---
 
 **Mentee Name: Anmol**
 

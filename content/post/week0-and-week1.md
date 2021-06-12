@@ -1,16 +1,12 @@
-+++
-title = "GSoC (Week 0 and 1)"
-date = "2021-05-31"
-author = "Anmol"
-description = "Weekly Project Report (Community Bonding Period)"
-tags = [
-	"gsoc",
-	"agl",
-]
-categories = [
-	"gsoc",
-]
-+++
+---
+title:  "GSoC (Week 0 and 1)"
+date: "2021-05-31"
+author: "Anmol"
+description: "Weekly Project Report (Community Bonding Period)"
+tags: 
+  - gsoc
+  - agl
+---
 
 **Mentee Name: Anmol**
 

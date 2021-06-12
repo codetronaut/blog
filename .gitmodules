@@ -1,3 +1,3 @@
-[submodule "themes/hugo.386"]
-	path = themes/hugo.386
-	url = https://gitlab.com/maxlefou/hugo.386
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
