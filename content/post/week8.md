@@ -19,6 +19,8 @@ tags:
 
 #### Week-08: Jailhouse Root cell now working with QEmulated AGL Image.
 
+**Current Status**
+
 Root cell is now loading in the QEmulated setup and some of the changes in the configurations file which were not working before are now fixed by these changes:
 
 - At first, the configuration file is generated from the QEmulated instance using.
